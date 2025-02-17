@@ -1,4 +1,4 @@
-# Unpinned firmware from HyperOS V816.0.8.0.UMMCNXM (rembrandt) fastboot package
+# Unpinned firmware from HyperOS V816.0.11.0.ULQMIXM (plato) fastboot package
 
 apusys.img;AB
 audio_dsp.img;AB
@@ -14,7 +14,7 @@ mcupm.img;AB
 md1img.img;AB
 mvpu_algo.img;AB
 pi_img.img;AB
-preloader_raw.img;AB
+preloader_plato.bin:preloader_raw.img;AB|544f0a12fff598ed1866b695398d3b193b3ffc58
 scp.img;AB
 spmfw.img;AB
 sspm.img;AB

@@ -1,3 +1,10 @@
+# Audio
+ro.vendor.audio.us.proximity=true
+ro.vendor.audio.us.proximity_waitfornegative_feature=true
+
+# Bluetooth
+bluetooth.device.default_name=Redmi K60E
+
 # Camera
 camera.disable_zsl_mode=1
 persist.vendor.camera3.pipeline.bufnum.min.high_ram.imgo=7
@@ -33,5 +40,5 @@ persist.sys.sf.native_mode=2
 ro.surface_flinger.set_idle_timer_ms=0
 ro.surface_flinger.use_content_detection_for_refresh_rate=false
 
-# Graphics
-persist.sys.phh.mtk_ged_kpi=1
+# USB
+vendor.usb.product_string=Redmi K60E
